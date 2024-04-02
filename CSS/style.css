@@ -1,0 +1,56 @@
+header>section>nav>ul>li{
+    display: inline;
+    margin-right: 20px;
+    font-size: larger;
+}
+header>section>nav>ul>li>a{
+    text-decoration: none;
+    color: black;
+}
+main>section>form>label{
+    display: block;
+    margin-top: 20px;
+}
+fieldset>legend{
+    text-align: center;
+    font-size: 18px;
+}
+fieldset{
+    height: auto;
+    width: 250px;
+    margin-top: 30px;
+    background-color: tomato;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    margin-left: 30px;
+}
+h1{
+    margin-left: 30px;
+}
+#Hasnat{
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color: chocolate;
+    border: 0px;
+    color: white;
+}
+#hasib{
+    margin-left: 40px;
+    background-color: chocolate;
+    border: 0px;
+    color: white;
+}
+td,th{
+    border: 2px solid black;
+    padding: 5px 10px;
+}
+table{
+    border-collapse: collapse;
+    margin: 30px 30px;
+}
+caption{
+    margin-bottom: 10px;
+}
